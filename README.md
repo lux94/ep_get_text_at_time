@@ -9,7 +9,6 @@ so to get the pad revision 3 days ago, use the unix time 3 days ago
 
     API >= 1
 
-sets the text of a pad
 
 possible returns:
 
