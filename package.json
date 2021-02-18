@@ -1,0 +1,12 @@
+{
+  "name": "ep_get_text_at_time",
+  "version": "0.0.1",
+  "description": "HTTP API function getTextAtTime(padID, millis)",
+  "author": "lux94 <lux94@klartraum-welle.info>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lux94/ep_get_text_at_time"
+  },
+  "dependencies": {}
+}
