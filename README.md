@@ -4,7 +4,7 @@ etherpad http api extension getTextAtTime(padID, millis)
 ### usage:
 my.etherpad/api/1/getTextAtTime?apikey=secret&padID=welcome&millis=1234567890
 
-millis is the unix time also used as internal timestamp,
+`millis` is the unix time also used as internal timestamp,
 so to get the pad revision 3 days ago, use the unix time 3 days ago
 
     API >= 1
